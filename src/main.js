@@ -5,7 +5,7 @@ import store from './store'
 import axios from 'axios'
 
 
-axios.defaults.baseURL = "https://calebexeat.onrender.com/"
+axios.defaults.baseURL = "https://calebexeatbackend.vercel.app/"
 
 
 
